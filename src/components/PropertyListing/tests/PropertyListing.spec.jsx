@@ -86,7 +86,7 @@ jest.mock('../../../utils', () => ({
     ),
 }));
 
-// More tests I would add if I could add more fixtures:
+// More tests I would add if I could add more features:
 // - should render loading state
 // - should render error state
 describe('PropertyListing', () => {
